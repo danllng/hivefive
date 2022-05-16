@@ -12,7 +12,7 @@ Daniel Lange, Tim Claudius Stratmann, Uwe Gruenefeld, and Susanne Boll. 2020. Hi
 6. To move the swarms you have to change the positions of the SwarmManagers
 
 # Data for the biological swarm
-For our biological swarm, we use an excerpt of Ob4.txt from the following data source: https://www.nature.com/articles/sdata201936#Sec7
+For our biological swarm, we use an excerpt of Ob4.txt from the following data source: Sinhuber, M. et al. Figshare https://doi.org/10.6084/m9.figshare.7336193.v2 (2018)
 
 The data was published as part of the following publication: Sinhuber, M. _et al._ The Subnational Human Development Database. _Sci. Data_. 6:190036 https://doi.org/10.1038/sdata.2019.36 (2019).
 
