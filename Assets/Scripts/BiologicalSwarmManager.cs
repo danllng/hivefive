@@ -27,7 +27,7 @@ public class BiologicalSwarmManager : MonoBehaviour
 
     void Start()
     {
-        swarmHolder = new GameObject("Swarm");
+        swarmHolder = new GameObject("BiologicalSwarm");
         swarmHolder.transform.position = this.transform.position;
 
         particles = new List<GameObject>();

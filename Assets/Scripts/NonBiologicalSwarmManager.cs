@@ -47,7 +47,7 @@ public class NonBiologicalSwarmManager : MonoBehaviour
 
     void Start()
     {
-        swarmHolder = new GameObject("Swarm");
+        swarmHolder = new GameObject("NonBiologicalSwarm");
         swarmHolder.transform.position = this.transform.position;
 
         oldSize = size;
